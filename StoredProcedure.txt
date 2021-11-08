@@ -1,0 +1,18 @@
+GO
+create PROCEDURE [dbo].[UserMst_Select_for_login] 
+	
+@name as nvarchar(256),
+@pass as nvarchar(256)
+AS
+
+IF Not Exists (Select 1 From UserMst Where U_Name = @name and u_password=@pass)
+BEGIN
+	select * from UserMst where u_name=@name and u_password=@pass
+
+RETURN 0
+END
+ELSE
+BEGIN
+RETURN 1
+END
+
