@@ -5,7 +5,7 @@ Contributors
 ---
 | CONTRIBUTORS | CONTRIBUTION |
 | ------ | -----------|
-| Siddharth jain | Login form,c;ient CRUD operations,Entity frame work |
+| Siddharth jain | Login form,Entity frame work |
 | Lakshmi Likhitha |Create database&tables,inserting data |
 | Vucha Sindhuja | Usecase diagram,Updating data |
 | Vamsikrishna Bollam | Activity diagram,Deleting data |
