@@ -6,5 +6,5 @@ Contributors
 | ------ | -----------|
 | Lakshmi Likhitha |Database,connections |
 | Siddharth jain | Login feature |
-| Vucha Sinduja | Company (CURD) |
+| Vucha Sindhuja | Company (CURD) |
 | Vamsikrishna Bollam | Stock (CURD) |
