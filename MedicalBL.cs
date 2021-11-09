@@ -25,5 +25,19 @@ namespace BL
 
             }
         }
+
+        public string insertClient(MedicalDTO newObj1)
+        {
+            try
+            {
+                MedicalDAL dalObj1 = new MedicalDAL();
+                String result1 = dalObj1.Client(newObj1);
+                return result1;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
     }
 }
