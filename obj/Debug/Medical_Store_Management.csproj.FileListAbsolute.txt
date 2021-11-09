@@ -1,0 +1,12 @@
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\Medical_Store_Management.exe.config
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\Medical_Store_Management.exe
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\Medical_Store_Management.pdb
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.AssemblyReference.cache
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.CoreCompileInputs.cache
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\obj\Debug\Medical_Store_Management.exe
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\obj\Debug\Medical_Store_Management.pdb
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\EntityFramework.dll
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\EntityFramework.xml
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\siddarth\Desktop\oknew\New folder\Medical_Store_Management\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.CopyComplete

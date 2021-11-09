@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MedicalModelStoreContainer" CdmEntityContainer="MedicalContext">
+    <EntitySetMapping Name="ClientMsts">
+      <EntityTypeMapping TypeName="MedicalModel.ClientMst">
+        <MappingFragment StoreEntitySet="ClientMst">
+          <ScalarProperty Name="CU_Id" ColumnName="CU_Id" />
+          <ScalarProperty Name="CU_Name" ColumnName="CU_Name" />
+          <ScalarProperty Name="CU_Surname" ColumnName="CU_Surname" />
+          <ScalarProperty Name="CU_Mobile_No" ColumnName="CU_Mobile_No" />
+          <ScalarProperty Name="CU_Address" ColumnName="CU_Address" />
+          <ScalarProperty Name="CU_City" ColumnName="CU_City" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CompanyMsts">
+      <EntityTypeMapping TypeName="MedicalModel.CompanyMst">
+        <MappingFragment StoreEntitySet="CompanyMst">
+          <ScalarProperty Name="CId" ColumnName="CId" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="Person" ColumnName="Person" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Contact" ColumnName="Contact" />
+          <ScalarProperty Name="EntryDate" ColumnName="EntryDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SalesMsts">
+      <EntityTypeMapping TypeName="MedicalModel.SalesMst">
+        <MappingFragment StoreEntitySet="SalesMst">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Customer" ColumnName="Customer" />
+          <ScalarProperty Name="IName" ColumnName="IName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="TPrice" ColumnName="TPrice" />
+          <ScalarProperty Name="EntryDate" ColumnName="EntryDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StockInMsts">
+      <EntityTypeMapping TypeName="MedicalModel.StockInMst">
+        <MappingFragment StoreEntitySet="StockInMst">
+          <ScalarProperty Name="I_Id" ColumnName="I_Id" />
+          <ScalarProperty Name="I_Name" ColumnName="I_Name" />
+          <ScalarProperty Name="I_Descrip" ColumnName="I_Descrip" />
+          <ScalarProperty Name="I_Quantity" ColumnName="I_Quantity" />
+          <ScalarProperty Name="I_Price" ColumnName="I_Price" />
+          <ScalarProperty Name="C_Name" ColumnName="C_Name" />
+          <ScalarProperty Name="I_Ex_Date" ColumnName="I_Ex_Date" />
+          <ScalarProperty Name="I_Location" ColumnName="I_Location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StockMsts">
+      <EntityTypeMapping TypeName="MedicalModel.StockMst">
+        <MappingFragment StoreEntitySet="StockMst">
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+          <ScalarProperty Name="IName" ColumnName="IName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="TotalQuantity" ColumnName="TotalQuantity" />
+          <ScalarProperty Name="SellQuantity" ColumnName="SellQuantity" />
+          <ScalarProperty Name="AvailableQuantity" ColumnName="AvailableQuantity" />
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="SellPrice" ColumnName="SellPrice" />
+          <ScalarProperty Name="AvaiablePrice" ColumnName="AvaiablePrice" />
+          <ScalarProperty Name="Entrydate" ColumnName="Entrydate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StockOutMsts">
+      <EntityTypeMapping TypeName="MedicalModel.StockOutMst">
+        <MappingFragment StoreEntitySet="StockOutMst">
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+          <ScalarProperty Name="C_Name" ColumnName="C_Name" />
+          <ScalarProperty Name="I_Name" ColumnName="I_Name" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="Entry_Date" ColumnName="Entry_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserMsts">
+      <EntityTypeMapping TypeName="MedicalModel.UserMst">
+        <MappingFragment StoreEntitySet="UserMst">
+          <ScalarProperty Name="U_Id" ColumnName="U_Id" />
+          <ScalarProperty Name="U_Name" ColumnName="U_Name" />
+          <ScalarProperty Name="U_Password" ColumnName="U_Password" />
+          <ScalarProperty Name="U_Type" ColumnName="U_Type" />
+          <ScalarProperty Name="E_Date" ColumnName="E_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
