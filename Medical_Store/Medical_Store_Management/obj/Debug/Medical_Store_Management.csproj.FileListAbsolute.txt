@@ -1,0 +1,14 @@
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\bin\Debug\Medical_Store_Management.exe.config
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\bin\Debug\Medical_Store_Management.exe
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\bin\Debug\Medical_Store_Management.pdb
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.AssemblyReference.cache
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.CoreCompileInputs.cache
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.exe
+C:\Users\siddarth\source\repos\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.pdb
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\bin\Debug\Medical_Store_Management.exe.config
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\bin\Debug\Medical_Store_Management.exe
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\bin\Debug\Medical_Store_Management.pdb
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.exe
+C:\Users\DELL\Desktop\Medical_Store\Medical_Store\Medical_Store_Management\obj\Debug\Medical_Store_Management.pdb
