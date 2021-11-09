@@ -4,7 +4,7 @@ Medical Software management system project used to maintain and track medicine s
 Contributors
 | CONTRIBUTORS | CONTRIBUTION |
 | ------ | -----------|
-| Lakshmi Likhitha |Database,connections |
-| Siddharth jain | Login feature |
-| Vucha Sindhuja | Company (CURD) |
-| Vamsikrishna Bollam | Stock (CURD) |
+| Siddharth jain | Login form,Entity frame work |
+| Lakshmi Likhitha |Create database&tables,inserting data |
+| Vucha Sindhuja | Usecase diagram,Updating data |
+| Vamsikrishna Bollam | Activity diagram,Deleting data |
